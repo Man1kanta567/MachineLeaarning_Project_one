@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/Users/manikantamukkapati/Downloads/Personal Coding Programs/python projects/python_machine_learning_projects/MachineLearningProject_one/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.45.3
+Libs: -L${libdir} -lsqlite3
+Libs.private: -lz 
+Cflags: -I${includedir}

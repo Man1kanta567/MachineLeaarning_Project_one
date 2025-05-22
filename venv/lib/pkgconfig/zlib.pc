@@ -1,0 +1,13 @@
+prefix=/Users/manikantamukkapati/Downloads/Personal Coding Programs/python projects/python_machine_learning_projects/MachineLearningProject_one/venv
+exec_prefix=/Users/manikantamukkapati/Downloads/Personal Coding Programs/python projects/python_machine_learning_projects/MachineLearningProject_one/venv
+libdir=/Users/manikantamukkapati/Downloads/Personal Coding Programs/python projects/python_machine_learning_projects/MachineLearningProject_one/venv/lib
+sharedlibdir=/Users/manikantamukkapati/Downloads/Personal Coding Programs/python projects/python_machine_learning_projects/MachineLearningProject_one/venv/lib
+includedir=/Users/manikantamukkapati/Downloads/Personal Coding Programs/python projects/python_machine_learning_projects/MachineLearningProject_one/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
