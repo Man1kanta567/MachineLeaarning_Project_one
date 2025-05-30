@@ -14,5 +14,9 @@ git push -u origin main
 # step 2: create requirements.txt file whreer we will add the modues needed . setup.py file to setup the project directory
 __init__.py file under src folder(create one) and run the prohect with command pip3 install -r requirements.txt
 
-
+# step 3: Work on the Eploratory data analysis:
+      clean the null values from the shared data set
+      clean the duplicate values from the shared data set
+      seggregate the feature of categorical and numerical features
+      Visualize the data with different plots
 
