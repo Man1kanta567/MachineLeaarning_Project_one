@@ -1,1 +1,2 @@
-[ 2025-05-24 11:10:57,393 ] 22 root - INFO - logging has started..
+[ 2025-05-24 11:52:48,176 ] 21 root - INFO - logging has started..
+[ 2025-05-24 11:53:04,443 ] 30 root - ERROR - Divide by Zero error
