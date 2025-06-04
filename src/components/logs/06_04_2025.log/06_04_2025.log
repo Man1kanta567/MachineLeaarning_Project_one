@@ -1,0 +1,12 @@
+[ 2025-06-04 20:06:57,047 ] 25 root - INFO - started initiating the data injestion
+[ 2025-06-04 20:06:57,050 ] 28 root - INFO - data is readed from file and stored as a data frame
+[ 2025-06-04 20:06:57,051 ] 31 root - INFO - directory is created if already not present
+[ 2025-06-04 20:06:57,055 ] 40 root - INFO - training and test data are loaded in the files ...
+[ 2025-06-04 20:08:59,786 ] 25 root - INFO - started initiating the data injestion
+[ 2025-06-04 20:08:59,787 ] 28 root - INFO - data is readed from file and stored as a data frame
+[ 2025-06-04 20:08:59,787 ] 31 root - INFO - directory is created if already not present
+[ 2025-06-04 20:08:59,790 ] 40 root - INFO - training and test data are loaded in the files ...
+[ 2025-06-04 20:09:14,585 ] 25 root - INFO - started initiating the data injestion
+[ 2025-06-04 20:09:14,586 ] 28 root - INFO - data is readed from file and stored as a data frame
+[ 2025-06-04 20:09:14,586 ] 31 root - INFO - directory is created if already not present
+[ 2025-06-04 20:09:14,589 ] 40 root - INFO - training and test data are loaded in the files ...

@@ -1,0 +1,23 @@
+[ 2025-05-30 10:28:34,237 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:29:39,446 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:30:12,514 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:30:59,348 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:31:33,604 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:31:59,601 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:32:18,357 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:32:44,562 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:32:44,564 ] 26 root - INFO - data is readed from file and stored as a data frame
+[ 2025-05-30 10:32:44,564 ] 29 root - INFO - directory is created if already not present
+[ 2025-05-30 10:32:44,570 ] 39 root - INFO - training and test data are loaded in the files ...
+[ 2025-05-30 10:35:03,818 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:35:03,819 ] 26 root - INFO - data is readed from file and stored as a data frame
+[ 2025-05-30 10:35:03,819 ] 29 root - INFO - directory is created if already not present
+[ 2025-05-30 10:35:03,823 ] 39 root - INFO - training and test data are loaded in the files ...
+[ 2025-05-30 10:35:14,630 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:35:14,631 ] 26 root - INFO - data is readed from file and stored as a data frame
+[ 2025-05-30 10:35:14,631 ] 29 root - INFO - directory is created if already not present
+[ 2025-05-30 10:35:14,634 ] 39 root - INFO - training and test data are loaded in the files ...
+[ 2025-05-30 10:35:42,779 ] 23 root - INFO - started initiating the data injestion
+[ 2025-05-30 10:35:42,781 ] 26 root - INFO - data is readed from file and stored as a data frame
+[ 2025-05-30 10:35:42,781 ] 29 root - INFO - directory is created if already not present
+[ 2025-05-30 10:35:42,783 ] 38 root - INFO - training and test data are loaded in the files ...
