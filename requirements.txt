@@ -5,4 +5,6 @@ matplotlib
 scikit-learn
 ipykernel
 dill
--e .
+catboost
+xgboost
+#-e .

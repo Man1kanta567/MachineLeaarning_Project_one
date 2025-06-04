@@ -6,6 +6,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split 
 import sys
 from src.components.dataTransformation import DataTransformation
+from src.components.model_training import ModelTrainer
+
 
 
 
@@ -51,5 +53,7 @@ if __name__ =='__main__':
     datainjestion = DataInjestion()
     train_path, test_path =datainjestion.initiate_data_injestion()
     data_transformation = DataTransformation()
-    data_transformation.initiate_data_transformation(train_path=train_path,test_path=test_path)
-    
+    train_arr,test_arr,path =data_transformation.initiate_data_transformation(train_path=train_path,test_path=test_path)
+    modeltrainer = ModelTrainer()
+    r2ScoreValue =modeltrainer.initiate_model_training(train_arr=train_arr,test_arr=test_arr)
+    print('accuracy is :',r2ScoreValue)
